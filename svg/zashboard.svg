@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <g fill="none" stroke="black" stroke-width="64" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- Top -->
+    <path d="M416 120 L512 64 L608 120"></path>
+
+    <!-- Left Top -->
+    <path d="M224 296 L128 352 L224 408"></path>
+
+    <!-- Right Top -->
+    <path d="M800 296 L896 352 L800 408"></path>
+
+    <!-- Center -->
+    <path d="M416 488 L512 544 L608 488"></path>
+    <path d="M512 544 L512 640"></path>
+
+    <!-- Left Bottom -->
+    <path d="M128 608 L128 704 L224 760"></path>
+
+    <!-- Right Bottom -->
+    <path d="M896 608 L896 704 L800 760"></path>
+
+    <!-- Bottom -->
+    <path d="M416 872 L512 928 L608 872"></path>
+    <path d="M512 832 L512 928"></path>
+
+  </g>
+</svg>
